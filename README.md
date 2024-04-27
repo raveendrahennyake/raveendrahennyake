@@ -32,4 +32,19 @@ Here are some ideas to get you started:
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
+### Github Activity ✔:
+
+<a href="https://github.com/raveendrahennyake">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raveendrahennyake&theme=tokyonight" />
+  </a>
+
+<a href="https://github.com/raveendrahennyake">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=raveendrahennyake&show_icons=true&theme=tokyonight&line_height=27" alt="Raveendra Hennyake github stats"/>
+</a>
+
+<br/>
+<br/>
+<br/>
+
+
 
